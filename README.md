@@ -1,4 +1,4 @@
-![I am Founder and CEO at BitOriole.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Founder and CEO at BitOriole.](https://media.licdn.com/dms/image/v2/D5616AQHEmSPc6nuAUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723033013580?e=1732147200&v=beta&t=Ie_ZJU_q_bAJWLW6wFtQb7NHDJTokjc0bqyiHijGMKM)
 
 ### Hi there 👋, I'm Deloar Jahan
 #### I am Founder and CEO at BitOriole.
