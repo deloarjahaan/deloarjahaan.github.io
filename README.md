@@ -3,7 +3,6 @@
 ### Hi there 👋, I'm Deloar Jahan
 #### I am Founder and CEO at BitOriole.
 
-
 Leading BitOriole, we strive to integrate cutting-edge tech with meaningful social impact, drawing from a strong foundation in Computer Science and Engineering at Rabindra Maitree University. The organization's direction is shaped by my competencies in Veeam Software and a vision to create scalable, secure solutions that benefit society.
 
 Concurrently, my role at HULT PRIZE RMU channels student potential into global problem-solving, dovetailing with dedication at Volunteer for Bangladesh. These roles reflect a commitment to leadership that transcends technology, focusing on community empowerment and the broader implications of our digital initiatives.
@@ -20,12 +19,6 @@ Skills: Python / Java / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deloarjahan)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deloarjahan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deloarjahan&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/deloarjahan/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/deloarjahan)  
 
